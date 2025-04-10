@@ -1,17 +1,17 @@
 # Graphql VS REST Benchmark API
 Simple benchmark to say Hello World.
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# In one terminal: run REST server
+## In one terminal: run REST server
 npm run start:rest
 
-# In another terminal: benchmark REST
+## In another terminal: benchmark REST
 npm run bench:rest
 
-# In a new terminal: run GraphQL server
+## In a new terminal: run GraphQL server
 npm run start:graphql
 
-# Then benchmark GraphQL
+## Then benchmark GraphQL
 npm run bench:graphql
